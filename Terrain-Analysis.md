@@ -31,6 +31,7 @@ The 3D model provides a visual representation of elevation changes, improving in
 The elevation profile shows how elevation changes along a selected line, providing detailed terrain variation.
 ![Elevation Profile](images/elevation-profile.jpg.jpeg)
 
+The results indicate that low-slope areas correspond to relatively flat terrain, which may influence drainage patterns and surface runoff within the study area.
 ---
 
 ### Tools Used
