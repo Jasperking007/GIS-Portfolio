@@ -22,3 +22,17 @@ This repository showcases selected GIS projects demonstrating terrain analysis, 
 - Map layout and design
 
 [View Project](Geological-Mapping.md)
+
+---
+
+## Interactive Portfolio
+View my full GIS StoryMap portfolio here:  
+https://arcg.is/1brfuv2
+
+---
+
+## Skills
+- ArcGIS Pro (Spatial Analysis, Raster & Vector Data)
+- Terrain Analysis (DEM, Slope, Elevation Profile)
+- Geological Mapping
+- Georeferencing and Data Preparation
